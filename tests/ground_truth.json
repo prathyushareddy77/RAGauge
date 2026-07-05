@@ -1,0 +1,6 @@
+[
+  {
+    "question": "What is this project about?",
+    "ground_truth": "RAGauge is a modular RAG evaluation pipeline."
+  }
+]

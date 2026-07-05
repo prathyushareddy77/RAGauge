@@ -1,0 +1,3 @@
+RAGauge is a modular retrieval-augmented generation (RAG) evaluation pipeline.
+It ingests project documents, retrieves context with a hybrid retriever, and
+evaluates responses using Ragas metrics such as faithfulness and context precision.
